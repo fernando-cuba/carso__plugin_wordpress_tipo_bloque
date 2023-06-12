@@ -1,0 +1,24 @@
+.custom-block-plugin-category {
+    padding: 20px;
+    color: #ffffff;
+}
+
+.custom-block-plugin-category.national {
+    background-color: #00b049;
+}
+
+.custom-block-plugin-category.entertainment {
+    background-color: #ffc915;
+}
+
+.custom-block-plugin-category.technology {
+    background-color: #00d3f8;
+}
+
+.custom-block-plugin-category.pets {
+    background-color: #90456d;
+}
+
+.custom-block-plugin-category.sports {
+    background-color: #ff372c;
+}
